@@ -1,0 +1,9 @@
+﻿1.打开dos
+
+2.进入站点所在目录
+
+3.运行node命令: npm install
+
+4.运行node命令: npm  run build
+
+5.把生成的dist文件夹中的站点文件进行上传即可。

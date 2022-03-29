@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57 (83077) - https://sketch.com -->
+    <title>页面添加icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1">
+        <g id="页面添加icon" stroke="#A3B1CC">
+            <circle id="椭圆形" stroke-width="2" cx="8" cy="8" r="7"></circle>
+            <path d="M8,4.5 C7.72385763,4.5 7.5,4.72385763 7.5,5 L7.5,7.5 L5,7.5 C4.72385763,7.5 4.5,7.72385763 4.5,8 C4.5,8.27614237 4.72385763,8.5 5,8.5 L7.5,8.5 L7.5,11 C7.5,11.2761424 7.72385763,11.5 8,11.5 C8.27614237,11.5 8.5,11.2761424 8.5,11 L8.5,8.5 L11,8.5 C11.2761424,8.5 11.5,8.27614237 11.5,8 C11.5,7.72385763 11.2761424,7.5 10.99975,7.49999994 L8.5,7.49875006 L8.5,5 C8.5,4.72385763 8.27614237,4.5 8,4.5 Z" id="路径"></path>
+        </g>
+    </g>
+</svg>

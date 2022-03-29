@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+      }
+    </style>
+  </defs>
+  <path id="投屏icon" class="cls-1" d="M157,74h-2V72h2a2,2,0,0,0,2-2V58a2,2,0,0,0-2-2H141a2,2,0,0,0-2,2V70a2,2,0,0,0,2,2h2v2h-2a4,4,0,0,1-4-4V58a4,4,0,0,1,4-4h16a4,4,0,0,1,4,4V70A4,4,0,0,1,157,74Zm-3,4H144l5-8Z" transform="translate(-137 -54)"/>
+</svg>

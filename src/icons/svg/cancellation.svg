@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+      }
+    </style>
+  </defs>
+  <path id="退出icon" class="cls-1" d="M109,78a11.985,11.985,0,0,1-10.382-6h2.4a10,10,0,1,0,0-12h-2.4A12,12,0,1,1,109,78ZM97,66l8-5v4h7a1,1,0,0,1,0,2h-7v4Z" transform="translate(-97 -54)"/>
+</svg>

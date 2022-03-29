@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <link rel="icon" href="<%= BASE_URL %>favicon.ico">
+  <title><%= webpackConfig.name %></title>
+  <SCRIPT LANGUAGE="JavaScript">
+    function auto_submit() {
+      var ele = document.querySelector('.el-dialog__body');
+      if (ele) {
+        var input = ele.querySelectorAll('input');
+        if (input.length > 0) {
+          for (let i = 0; i < input.length; i++) {
+            input[i].blur()
+          }
+        }
+      }
+    }
+    window.onblur = auto_submit;
+  </SCRIPT>
+</head>
+
+<body>
+  <noscript>
+    <strong>We're sorry but <%= webpackConfig.title %> doesn't work properly without JavaScript enabled. Please enable
+      it to continue.</strong>
+  </noscript>
+  <div id="app"></div>
+  <!-- built files will be auto injected -->
+</body>
+
+</html>
